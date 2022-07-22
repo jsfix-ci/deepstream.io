@@ -58,7 +58,7 @@
     "ajv": "^6.12.6",
     "better-ajv-errors": "^0.8.2",
     "body-parser": "^1.19.0",
-    "chalk": "^4.1.0",
+    "chalk": "^5.0.1",
     "commander": "^6.2.0",
     "content-type": "^1.0.4",
     "glob": "^7.1.6",
